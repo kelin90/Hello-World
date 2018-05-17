@@ -1,3 +1,3 @@
 # Hello-World
 First step into coding world
-i am still a little confused
+but i am still a little confused
